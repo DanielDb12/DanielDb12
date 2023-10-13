@@ -1,8 +1,18 @@
+![imagen](https://github.com/DanielDb12/DanielDb12/assets/101514319/3cad8004-9cf2-4e7e-8d59-a94aa6b3f8eb)
+
+
+---
+
+
+
+
+<img align="right" hight="600" width="500" src="https://github.com/DanielDb12/DanielDb12/assets/101514319/69d47ef4-1c42-4c42-bddf-f1dec19fb2d4" />
+
+👋 Hi, I'm Daniel  🧔 <br/>
 
 ----------------------------------------
-👋 Hi, I'm Daniel  🧔 <br/>
-----------------------------------------
 I'm a Java Developer (Junior Level) ☝⏫<br/>
+
 I'm Venezuelan. And I built this profile so you can review my main skills and knowledge 🧠. </br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -10,11 +20,12 @@ I'm Venezuelan. And I built this profile so you can review my main skills and kn
 - 📫 How to reach me **danduarte241@gmail.com**
 
 -------------------------------------------------------------------------------------------------------------------------------------
-<img align="left" alt="Coding" width="400" src="https://unblast.com/programmer-vector-illustration-ai-svg-eps-png/" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-duarte-588944234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-duarte-588944234/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-duarte-588944234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/daniel-duarte-588944234/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BbPcnmJSJh2Va2a6X9iC_0tnG9j6Sr0_YA&usqp=CAU)" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,9 +60,12 @@ Spoken German 1%.<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 :octocat: <b>SKILLS:</b>
+
+
 <br>
 
 ![]()
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------
