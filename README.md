@@ -11,7 +11,7 @@
 👋 Hi, I'm Daniel  🧔 <br/>
 
 ----------------------------------------
-I'm a Java Developer (Junior Level) ⏫<br/>
+I'm a Java Developer  ⏫<br/>
 
 I'm Venezuelan. And I built this profile so you can review my main skills and knowledge 🧠. </br>
 
