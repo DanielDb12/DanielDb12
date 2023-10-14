@@ -75,31 +75,23 @@ Spoken German 1%.<br>
 
 🏋️ <b> MY TRAINING : </b><br/>
 
-
-
-
-🏋️ <b> MY TRAINING : </b><br/>
-📖 MY BOOK REPOSITORIES:
-
-| BOOK  |  DESCRIPTION | FINISH | COURSE |
-| ------------- | ------------- | --------- |------------|
-| <img width="150" src="https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490" />  | <p><a href="https://github.com/DanielDb12/DesignerPattern/tree/main2/DessingPatterns/src/abstractfactory"> 🔷ABSTRACT FACTORY</a></p>  | ⏰ COMPLETED 5% |
-
-
-<br> 
 💻 MY YOUTUBE REPOSITORIES :point_right:(ACTUALLY):point_left: 
 <p> 🔷<a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Generica">GENERIC PROGRAMING</a></p>
 <p> 🔷 <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Colecciones">COLLECTIONS</a></p>
 <p> 🔷 <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Threads">THREADS</a></p>
 <p> 🔷 <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Socket/sockes1">SOCKETS</a></p>
 <p> 🔷 <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/JDBC">JDBC</a></p>
-
+<br> 
   
+📖 MY BOOK REPOSITORIES:
 
+| BOOK  |  DESCRIPTION | FINISH | COURSE |
+| ------------- | ------------- | --------- |------------|
+| <img width="150" src="https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490" />  | <p><a href="https://github.com/DanielDb12/DesignerPattern/tree/main2/DessingPatterns/src/abstractfactory"> 🔷ABSTRACT FACTORY</a></p>  | ⏰ COMPLETED 5% |
 
 <br>   
 --------------------------------------------------------------------------------------------------------------------------------
-
+🏋️ <b> MY TRAINING : </b><br/>
 💻 MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
 
 
