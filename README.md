@@ -49,6 +49,7 @@ I'm Venezuelan. And I built this profile so you can review my main skills and kn
 
 <br>
 
+![imagen](https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490)
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -73,6 +74,20 @@ Spoken German 1%.<br>
 🤓 EDUCATION:
 
 🏋️ <b> MY TRAINING : </b><br/>
+
+
+
+| SYMBOL  | CONTENT |
+| ------------- | ------------- |
+| <img src="https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490" />  | LINK THAT REDIRECTS TO THE COURSE OF THE REPOSITORY. HERE YOU CAN REVIEW THE CONTENT OF EACH COURSE. |
+| :small_blue_diamond: | LINK OF MY REPOSITORIES.  |
+| :memo: | MY NOTES AND/OR MY DOCUMENTATION. |
+| :eyes: | README.  |
+| :rocket: | LINK TO OTHER WEBSITE. |
+| :point_right: | COMMENTS. |
+| hrs | NUMBER OF HOURS OF VIDEO OF EACH COURSE. |
+
+
 
   
 💻 MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
