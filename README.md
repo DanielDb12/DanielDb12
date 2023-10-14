@@ -19,7 +19,7 @@ I'm Venezuelan. And I built this profile so you can review my main skills and kn
 -------------------------------------------------------------------------------------------------------------------------------------
 
 - 📫 How to reach me **danduarte241@gmail.com**
-
+- 👨‍💻 my portfolio **https://danielduartedb.vercel.app/**
 -------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
