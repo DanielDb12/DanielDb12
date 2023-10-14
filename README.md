@@ -77,24 +77,29 @@ Spoken German 1%.<br>
 
 
 
-| BOOK  | COURSE | FINISH |
-| ------------- | ------------- | --------- |
+
+🏋️ <b> MY TRAINING : </b><br/>
+📖 MY BOOK REPOSITORIES:
+
+| BOOK  |  DESCRIPTION | FINISH | COURSE |
+| ------------- | ------------- | --------- |------------|
 | <img width="150" src="https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490" />  | <p><a href="https://github.com/DanielDb12/DesignerPattern/tree/main2/DessingPatterns/src/abstractfactory"> 🔷ABSTRACT FACTORY</a></p>  | ⏰ COMPLETED 5% |
 
 
-
-
+<br> 
+💻 MY YOUTUBE REPOSITORIES :point_right:(ACTUALLY):point_left: :
+<p> <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Colecciones">COLECCIONES</a></p>
+<p> <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Generica">PROGRAMACIÓN GENERICA</a></p>
+<p> <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/JDBC">JBDC</a></p>
 
   
-💻 MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
+
 
 <br>   
 --------------------------------------------------------------------------------------------------------------------------------
 
-🏋️ <b> MY TRAINING : </b><br/>
-📖 MY BOOK REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
+💻 MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
 
-<br> 
 
 
 --------------------------------------------------------------------------------------------------------------------------------
