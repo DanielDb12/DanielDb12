@@ -77,7 +77,7 @@ Spoken German 1%.<br>
 🏋️ <b> MY TRAINING : </b><br/>
 
 💻 MY YOUTUBE REPOSITORIES :point_right:(ACTUALLY):point_left: 
-<h2>🔶<a href="https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&pp=iAQB">COURSE:PILDORAS INFORMÁTICAS:JAVA</a></h2>
+<h2>🔶<a href="https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&pp=iAQB">COURSE:PILDORAS INFORMÁTICAS-JAVA</a></h2>
 <p> 🔷<a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Generica">GENERIC PROGRAMING</a></p>
 <p> 🔷 <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Colecciones">COLLECTIONS</a></p>
 <p> 🔷 <a href="https://github.com/DanielDb12/pildorasinformaticas/tree/main2/CursoPildoras/src/Threads">THREADS</a></p>
