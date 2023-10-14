@@ -77,9 +77,9 @@ Spoken German 1%.<br>
 
 
 
-| BOOK  | COURSE |FINISH|
-| ------------- | ------------- |
-| <img width="300" src="https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490" />  |  ||
+| BOOK  | COURSE | FINISH |
+| ------------- | ------------- | --------- |
+| <img width="150" src="https://github.com/DanielDb12/DanielDb12/assets/101514319/4e4bffa6-6ef1-4002-a596-2701e1f44490" />  | <p><a href="https://github.com/DanielDb12/DesignerPattern/tree/main2/DessingPatterns/src/abstractfactory"> 🔷ABSTRACT FACTORY</a></p>  | ⏰ COMPLETED 5% |
 
 
 
