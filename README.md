@@ -1,4 +1,5 @@
 
+![imagen](https://github.com/DanielDb12/DanielDb12/assets/101514319/464da820-4285-4fb5-972d-fad2a56047dc)
 
 
 ---
@@ -91,6 +92,7 @@ Spoken German 1%.<br>
 
 <br>   
 --------------------------------------------------------------------------------------------------------------------------------
+
 🏋️ <b> MY TRAINING : </b><br/>
 💻 MY YOUTUBE REPOSITORIES :point_right:(ALL COMPLETE-100%):point_left: :
 
